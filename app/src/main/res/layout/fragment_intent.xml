@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".IntentFragment"
+    android:background="@drawable/background_pravila3">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="center">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Правила!"
+            android:textSize="30sp"
+            android:layout_gravity="center"
+            />
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="20dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:text="1. На карточке показан значок!"
+            android:textSize="20sp"
+            android:paddingHorizontal="20dp"/>
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="15dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:text="2. Смотри на значок и свайпай в сторону правильного ответа!"
+            android:textSize="20sp"
+            android:paddingHorizontal="20dp"/>
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="15dp"/>
+        <Button
+            android:id="@+id/buttonRegulations"
+            android:layout_width="80dp"
+            android:layout_height="50dp"
+            android:text="ок"
+            android:layout_gravity="center"
+            />
+    </LinearLayout>
+
+</FrameLayout>

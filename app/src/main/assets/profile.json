@@ -1,0 +1,122 @@
+[
+  {
+    "number": 1,
+    "question":"Какого цвета лого Lacoste?",
+    "colorAnswer": "влево",
+    "textAnswer": "вправо",
+    "backgroundLeft":"#88FD8C",
+    "backgroundRight":"#EE8EFF",
+    "textLeft":"Розовый",
+    "textRight":"Зеленый"
+  },
+  {
+    "number": 2,
+    "question":"Цвет мякоти кокоса?",
+    "colorAnswer": "вправо",
+    "textAnswer": "вправо",
+    "backgroundLeft":"#F4FF85",
+    "backgroundRight":"#FFFFFFFF",
+    "textLeft":"Желтый",
+    "textRight":"Белый"
+  },
+  {
+    "number": 3,
+    "question":"Цвет солнца на флаге Японии?",
+    "colorAnswer": "вправо",
+    "textAnswer": "влево",
+    "backgroundLeft":"#F4FF85",
+    "backgroundRight":"#C84A4A",
+    "textLeft":"Красный",
+    "textRight":"Желтый"
+  },
+  {
+    "number": 4,
+    "question":"Новый уровень!",
+    "colorAnswer": "вправо",
+    "textAnswer": "влево",
+    "backgroundLeft":"#F7636262",
+    "backgroundRight":"#F7636262",
+    "textLeft":"",
+    "textRight":""
+  },
+  {
+    "number": 5,
+    "question":"Цвет крепко заваренного кофе?",
+    "colorAnswer": "влево",
+    "textAnswer": "вправо",
+    "backgroundLeft":"#FF000000",
+    "backgroundRight":"#4C5CB6",
+    "textLeft":"Синий",
+    "textRight":"Черный"
+  },
+  {
+    "number": 6,
+    "question":"Цвет крови человека?",
+    "colorAnswer": "вправо",
+    "textAnswer": "влево",
+    "backgroundLeft":"#7086FD",
+    "backgroundRight":"#C84A4A",
+    "textLeft":"Красный",
+    "textRight":"Голубой"
+  },
+  {
+    "number": 7,
+    "question":"Цвет нефти?",
+    "colorAnswer": "влево",
+    "textAnswer": "вправо",
+    "backgroundLeft":"#FF000000",
+    "backgroundRight":"#855002",
+    "textLeft":"Коричневый",
+    "textRight":"Черный"
+  },
+  {
+  "number": 8,
+  "question":"Новый уровень!",
+  "colorAnswer": "вправо",
+  "textAnswer": "влево",
+  "backgroundLeft":"#F7636262",
+  "backgroundRight":"#F7636262",
+  "textLeft":"",
+  "textRight":""
+  },
+  {
+    "number": 9,
+    "question":"Цвет муки?",
+    "colorAnswer": "вправо",
+    "textAnswer": "влево",
+    "backgroundLeft":"#F4FF85",
+    "backgroundRight":"#FFFFFFFF",
+    "textLeft":"Белый",
+    "textRight":"Желтый"
+  },
+  {
+    "number": 10,
+    "question":"Цвет одежды Бэтмена?",
+    "colorAnswer": "влево",
+    "textAnswer": "влево",
+    "backgroundLeft":"#FF000000",
+    "backgroundRight":"#4C5CB6",
+    "textLeft":"Черный",
+    "textRight":"Синий"
+  },
+  {
+    "number": 11,
+    "question":"Какого цвета порох?",
+    "colorAnswer": "влево",
+    "textAnswer": "вправо",
+    "backgroundLeft":"#F7636262",
+    "backgroundRight":"#c8a2c8",
+    "textLeft":"Сиренивый",
+    "textRight":"Серый"
+  },
+  {
+    "number": 12,
+    "question":"Конец игры!",
+    "colorAnswer": "вправо",
+    "textAnswer": "влево",
+    "backgroundLeft":"#F7636262",
+    "backgroundRight":"#F7636262",
+    "textLeft":"",
+    "textRight":""
+  }
+]
